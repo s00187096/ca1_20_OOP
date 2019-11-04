@@ -1,0 +1,7 @@
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\bin\Debug\OOP_CA1_20.exe.config
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\bin\Debug\OOP_CA1_20.exe
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\bin\Debug\OOP_CA1_20.pdb
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\obj\Debug\OOP_CA1_20.csprojAssemblyReference.cache
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\obj\Debug\OOP_CA1_20.csproj.CoreCompileInputs.cache
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\obj\Debug\OOP_CA1_20.exe
+C:\Users\s00187096\source\repos\OOP_CA1_20\ca1_20_OOP\OOP_CA1_20\obj\Debug\OOP_CA1_20.pdb
